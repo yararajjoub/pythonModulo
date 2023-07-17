@@ -1,0 +1,6 @@
+ för varje rad skapar vi ny sträng anan,bay 
+ för varje rad skapar vi ny sträng erry,chay 
+ för varje rad skapar vi ny sträng e,äpplay 
+ för varje rad skapar vi ny sträng itroncay 
+ för varje rad skapar vi ny sträng 
+ för varje rad skapar vi ny sträng y:Bay Yaraway 
