@@ -6,7 +6,7 @@ antalKast = 0
 while True:
     antalKast = antalKast + 1  # counter
 
-    gissning = random.randint(1, 6)  # random tal mellan 1-6
+    gissning = random.randint(1, 6)  # random.txt tal mellan 1-6
     print(gissning)
     if gissning == 6:  # vår condition blev true
         break

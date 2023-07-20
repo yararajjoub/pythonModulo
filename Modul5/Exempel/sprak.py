@@ -26,7 +26,8 @@ def translate(original):
             translation += bokstav
     return translation
 
-
-text = input('Ange en text: ')
-oversattning = translate(text)
-print(oversattning)
+# ändra den så att den inte körs när jag importerar den
+if __name__ == '__main__':
+    text = input('Ange en text: ')
+    oversattning = translate(text)
+    print(oversattning)

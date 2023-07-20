@@ -1,0 +1,10 @@
+Hej där!
+Det här är ett exempel på en text som du kan skriva till en fil med Python filhantering.
+Du kan använda denna text för att öva och testa olika operationer på filer, som att skriva, läsa och hantera data.
+Python erbjuder ett enkelt och kraftfullt sätt att hantera filer.
+Du kan öppna en fil med `open()`-funktionen, skriva data till filen med `write()`-metoden, läsa data från filen med
+`read()`-metoden och stänga filen när du är klar med `close()`-metoden.
+Om du vill öva filinmatning kan du även använda `with`-satsen för att säkerställa att filen stängs automatiskt när du är klar.
+Lycka till med att testa din filhanteringskod!
+Med vänliga hälsningar,
+Din Python-kod
